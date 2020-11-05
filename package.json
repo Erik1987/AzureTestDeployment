@@ -1,0 +1,17 @@
+{
+  "name": "azure-deployment-demo",
+  "version": "1.0.0",
+  "description": "This project is built to demonstrate different approaches for deploying a Node.js microservice in Azure.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

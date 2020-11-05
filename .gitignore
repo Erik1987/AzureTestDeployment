@@ -3,3 +3,4 @@ node_modules
 .github
 .ssh
 removethisfolderandexcludegit
+.DS_Store
